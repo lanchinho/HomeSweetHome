@@ -1,0 +1,7 @@
+## Interface: 110207
+## Title: Home Sweet Home
+## Notes: Adds a clickable minimap button to teleport to your housing plot and a teleport home command
+## Author: Guilherme da Costa de Albuquerque (Guillaumius - Azralon US)
+## Version: 1.1
+
+HomeSweetHome.lua
