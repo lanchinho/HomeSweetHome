@@ -4,5 +4,5 @@ A simple addon for World of Warcraft that adds a clickable minimap button to the
 ## Available Commands
 - /hsh
 - /home
-- /tphome
-- /teleport
+- /tp
+
