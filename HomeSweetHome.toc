@@ -1,7 +1,7 @@
-## Interface: 110207
+## Interface: 120000
 ## Title: Home Sweet Home
 ## Notes: Clickable button that opens a dialog to choose the player house and teleport commands
 ## Author: Guilherme da Costa de Albuquerque (Guillaumius - Azralon US)
-## Version: 2.0
+## Version: 3.0
 
 HomeSweetHome.lua
